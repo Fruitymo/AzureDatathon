@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Azure Datathon
 
-You can use the [editor on GitHub](https://github.com/Fruitymo/AzureDatathon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Microsoft Azure Datathon – Africa League
+The ```Azure Datathon – Africa League``` is a 40-day gamified learning experience centred around the Microsoft Cloud Skills Challenge followed by a hackathon. This initiative will be driven in partnership with developer communities along with organizations that specialize in skilling and building open-source data-centred projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Microsoft Cloud Skills Challenge:
+The `Microsoft Cloud Skills Challenge` is an accelerated learning environment that puts participants against other industry Data Pros in a race for knowledge and leader board superiority. Participants complete Microsoft Learn modules to compete against others, expand their skillset, and celebrate their accomplishments.
+The goal is to skill `Database Administrators`, `Data Scientists`, `Engineers` and `Analysts` on the `Microsoft Azure Data` stack.
 
-### Markdown
+## How to get you going!
+Choose to Participate in one of the Datathon Eligible Leagues below: 
+### Datathon Beginner Level
+- Microsoft Data Fundamentals League [https://aka.ms/DataFundamentalsLeague](https://aka.ms/DataFundamentalsLeague)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Datathon Intermediate Level
+- Microsoft Azure Data Scientist League [https://aka.ms/DataScientistLeague](https://aka.ms/DataScientistLeague) 
+- Microsoft Azure Data Engineer League [https://aka.ms/DataEngineerLeague](https://aka.ms/DataEngineerLeague)
+- Microsoft Database Administrator League [https://aka.ms/DatabaseAdministratorLeague](https://aka.ms/DatabaseAdministratorLeague)
+- Microsoft Power BI Data Analyst League [https://aka.ms/DataAnalystLeague](https://aka.ms/DataAnalystLeague)
 
-```markdown
-Syntax highlighted code block
+You’ll need a ```Microsoft Learn profile``` to participate. Please follow the instructions during the challenge registration, if you do not yet have one. Ensure that you have an email for notifications saved in your Microsoft Learn profile.
 
-# Header 1
-## Header 2
-### Header 3
+Your challenge ```starts``` on **1 May 2022, 8AM** and ```ends``` on **10 June 2022, 8AM**.
 
-- Bulleted
-- List
+Have questions? 🤔 Join the ```Microsoft Tech Community``` Datathon Discussion [https://aka.ms/AzureDatathonAMA](https://aka.ms/AzureDatathonAMA)
 
-1. Numbered
-2. List
+Think you're up to the task? Share your progress on social media using the hashtags ```#MEAAzure``` ```#AzureDeveloper``` 
 
-**Bold** and _Italic_ and `Code` text
+![Win](https://user-images.githubusercontent.com/6312647/170799614-96cb0f28-dba0-41be-b612-4c97c89b3725.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fruitymo/AzureDatathon/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Looking forward to seeing you on the leaderboard! 🚀🚀🚀
