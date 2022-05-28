@@ -1,7 +1,7 @@
 # Azure Datathon
 
 ## About Microsoft Azure Datathon – Africa League
-The ```Azure Datathon – Africa League``` is a 40-day gamified learning experience centred around the Microsoft Cloud Skills Challenge followed by a hackathon. This initiative will be driven in partnership with developer communities along with organizations that specialize in skilling and building open-source data-centred projects.
+The ```Microsoft Azure Datathon – Africa League``` is a 40-day gamified learning experience centred around the Microsoft Cloud Skills Challenge followed by a hackathon. This initiative will be driven in partnership with developer communities along with organizations that specialize in skilling and building open-source data-centred projects.
 
 ## About Microsoft Cloud Skills Challenge:
 The `Microsoft Cloud Skills Challenge` is an accelerated learning environment that puts participants against other industry Data Pros in a race for knowledge and leader board superiority. Participants complete Microsoft Learn modules to compete against others, expand their skillset, and celebrate their accomplishments.
