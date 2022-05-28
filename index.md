@@ -29,3 +29,6 @@ Think you're up to the task? Share your progress on social media using the hasht
 ![Win](https://user-images.githubusercontent.com/6312647/170799614-96cb0f28-dba0-41be-b612-4c97c89b3725.png)
 
 Looking forward to seeing you on the leaderboard! 🚀🚀🚀
+### Author
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LeboMadise.svg?style=social&label=Follow%20%40LeboMadise)](https://twitter.com/LeboMadise)
