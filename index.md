@@ -8,7 +8,7 @@ This leg of the Azure Datathon league ```closed``` on **10 June 2022, 8AM**. Wat
 
 ## Prize Redemption 🥇
 
-Congratulations to all participants for taking on the ```Microsoft Azure Datathon - Africa League```. 🚀🚀🚀 We're happy to annouce ```270 individual winners```. Please [complete this form to redeem your prize](https://forms.office.com/r/9RD2NZg5UZ), allow maximum 3-days for electronic delivery.
+Congratulations to all participants for taking on the ```Microsoft Azure Datathon - Africa League```. 🚀🚀🚀 We're happy to announce ```270 individual winners```. Please [complete this form to redeem your prize](https://forms.office.com/r/9RD2NZg5UZ), allow maximum 3-days for electronic delivery.
 
 ![Win](https://user-images.githubusercontent.com/6312647/170799614-96cb0f28-dba0-41be-b612-4c97c89b3725.png)
 
