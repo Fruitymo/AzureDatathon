@@ -10,5 +10,9 @@ _Ready, Set Go_ with Microsoft [#AzureDatathon](https://twitter.com/search?f=twe
 - `#MEAAzure`
 - `#ZANorth`
 
+### Prize Redemption 🥇
+
+Congratulations to all participants for taking on the Microsoft Azure Datathon - Africa League. We're happy to annouce 270 individual winners. Please [complete this form to redeem your prize](https://forms.office.com/r/9RD2NZg5UZ), allow maximum 3-days for electronic delivery.
+
 ### Contact
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LeboMadise.svg?style=social&label=Follow%20%40LeboMadise)](https://twitter.com/LeboMadise)
